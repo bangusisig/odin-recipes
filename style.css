@@ -1,0 +1,17 @@
+* {
+    background-color: rgb(243, 207, 179);
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: 800px;
+    color: rgb(124,38,41);
+    font-size: 80px;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(198,176,188);
+    text-decoration: none;
+    font-size: 20px;
+}

@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(243, 207, 179);
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: 800px;
+    color: rgb(124,38,41);
+    font-size: 80px;
+    text-align: center;
+    font-style:italic;
+}
+
+.food_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: auto;
+}
+
+.warning {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#description {
+    font-style: normal;
+}
+
+p {
+    font-style: italic;
+}
