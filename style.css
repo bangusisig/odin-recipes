@@ -10,8 +10,23 @@ h1 {
     text-align: center;
 }
 
+div {
+    margin-left: 150px;
+}
+
 button {
-    background-color: rgb(198,176,188);
-    text-decoration: none;
     font-size: 20px;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    border-color: rgb(124,38,41);
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: block;
+    margin: 8px;
 }
